@@ -6,7 +6,7 @@ function HomePage() {
   return (
     <div className="home-container">
       <header className="header">
-        <img src="/path/to/aiu-logo.png" alt="AIU Logo" className="logo" />
+        <img src="/aiu-logo.png" alt="AIU Logo" className="logo" />
         <h1>ReviQuiz | AIU</h1>
       </header>
       <section className="hero">

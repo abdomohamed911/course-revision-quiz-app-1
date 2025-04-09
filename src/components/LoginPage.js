@@ -10,8 +10,8 @@ function LoginPage() {
 
   return (
     <div className="login-container">
-      <h1>ReviQuiz Hub</h1>
-      <img src="/path/to/logo.png" alt="AIU Logo" className="logo" />
+      <h1>ReviQuiz | AIU</h1>
+      <img src="/aiu-logo.png" alt="AIU Logo" className="logo" />
       <button className="start-button" onClick={handleStart}>
         Start Quiz App
       </button>
